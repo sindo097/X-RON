@@ -109,8 +109,8 @@ animation big 広がる玉 4s~5.6s
   transform: scale(0);
 }
 
-.big div:nth-child(1) { background: #fffcee; animation: big .5s 4s forwards;}
-.big div:nth-child(2) { background: #bd8e99; animation: big .5s 4.5s forwards;}
+.big div:nth-child(1) { background: #ffdd3c; animation: big .5s 4s forwards;}
+.big div:nth-child(2) { background: #54565f; animation: big .5s 4.5s forwards;}
 .big div:nth-child(3) { background: #3b3c41;  animation: big .5s 5s forwards;}
 
 @keyframes big {
